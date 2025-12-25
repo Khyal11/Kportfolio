@@ -1,0 +1,53 @@
+{
+  "experience": [
+    {
+      "title": "Full Stack Developer",
+      "company": "NovaStack Solutions",
+      "period": "2025 - Present",
+      "description": "Developing scalable web applications using Next.js and Python-based APIs. Worked on frontend architecture, REST API integration, authentication flows, and deployment on Vercel. Focused on performance optimization and clean component design.",
+      "technologies": [
+        "Next.js",
+        "React",
+        "Tailwind CSS",
+        "Python",
+        "FastAPI",
+        "PostgreSQL",
+        "Vercel"
+      ]
+    },
+    {
+      "title": "Python Automation & Trading Bot Developer",
+      "company": "Independent Projects",
+      "period": "2023 - 2024",
+      "description": "Built automated trading bots using Python for market data analysis and strategy execution. Developed Telegram bots for alerts, order updates, and automation. Implemented backtesting logic and API-based integrations with trading platforms.",
+      "technologies": [
+        "Python",
+        "Algorithmic Trading",
+        "Market APIs",
+        "Telegram Bot API",
+        "FastAPI",
+        "Pandas"
+      ]
+    },
+    {
+      "title": "Frontend Developer",
+      "company": "PixelWave Web Studio",
+      "period": "2024 - 2025",
+      "description": "Created responsive websites and dashboards with a focus on clean UI and user experience. Converted designs into functional React components and improved site performance across devices.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Tailwind CSS"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master's in Computer Science",
+      "institution": "Hemchandracharya North Gujarat University",
+      "year": "2020 - 2025"
+    }
+  ]
+}

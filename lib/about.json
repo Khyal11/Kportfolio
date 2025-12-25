@@ -1,0 +1,126 @@
+{
+  "name": "Khyal Nayak",
+  "role": "Full-Stack Developer | Python & Automation Specialist",
+  "location": "Patan, Gujarat, India",
+  "email": "khyal725@gmail.com",
+  "phone": "+91 9999999999",
+
+  "headline": "Building scalable systems, intelligent bots, and data-driven applications.",
+
+  "shortBio": "Full-stack developer focused on Python, automation, and modern web technologies. Experienced in building trading bots, Telegram automation, APIs, and scalable frontend applications.",
+
+  "about": "I am a Full-Stack Developer with a strong foundation in Python, web development, and automation. I specialize in building intelligent systems such as algorithmic trading bots, Telegram bots, scraping pipelines, and API-driven applications. I enjoy solving real-world problems using clean architecture, efficient code, and scalable design. Currently focused on improving system performance, automation workflows, and deploying production-ready applications.",
+
+  "expertise": [
+    "Full-Stack Web Development",
+    "Python Automation & Scripting",
+    "Algorithmic Trading Systems",
+    "Telegram Bots & APIs",
+    "Web Scraping & Browser Automation",
+    "System Design & Scalable Architecture"
+  ],
+
+  "socialLinks": [
+    {
+      "platform": "GitHub",
+      "url": "https://github.com/Khyal11",
+      "icon": "github"
+    },
+    {
+      "platform": "LinkedIn",
+      "url": "https://linkedin.com/in/KhyalNayak",
+      "icon": "linkedin"
+    },
+    {
+      "platform": "Email",
+      "url": "mailto:khyal725@gmail.com",
+      "icon": "mail"
+    }
+  ],
+
+  "skills": [
+    {
+      "category": "Frontend",
+      "items": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "React",
+        "Next.js",
+        "Tailwind CSS",
+        "Responsive UI Design"
+      ]
+    },
+    {
+      "category": "Backend",
+      "items": [
+        "Python",
+        "FastAPI",
+        "Django",
+        "Node.js",
+        "Express.js",
+        "REST APIs",
+        "Authentication & Authorization"
+      ]
+    },
+    {
+      "category": "Databases",
+      "items": [
+        "PostgreSQL",
+        "MySQL",
+        "MongoDB",
+        "SQLite",
+        "Redis (Basics)"
+      ]
+    },
+    {
+      "category": "Automation & Bots",
+      "items": [
+        "Telegram Bots (Pyrogram, Bot API)",
+        "Playwright",
+        "Web Scraping",
+        "Cron Jobs",
+        "Task Automation"
+      ]
+    },
+    {
+      "category": "Trading & Data",
+      "items": [
+        "Algorithmic Trading (Python)",
+        "Market Data Analysis",
+        "OHLCV Data Processing",
+        "Backtesting Strategies"
+      ]
+    },
+    {
+      "category": "DevOps & Tools",
+      "items": [
+        "Git & GitHub",
+        "Linux",
+        "Docker (Basics)",
+        "Vercel",
+        "Postman",
+        "VS Code"
+      ]
+    }
+  ],
+
+  "highlights": [
+    {
+      "label": "Experience",
+      "value": "1+ Years"
+    },
+    {
+      "label": "Projects Built",
+      "value": "15+"
+    },
+    {
+      "label": "Bots & Automations",
+      "value": "10+"
+    },
+    {
+      "label": "APIs Developed",
+      "value": "5+"
+    }
+  ]
+}

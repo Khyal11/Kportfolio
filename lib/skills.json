@@ -1,0 +1,43 @@
+{
+  "categories": [
+    {
+      "name": "Frontend",
+      "skills": [
+        { "name": "React", "level": 95 },
+        { "name": "Next.js", "level": 95 },
+        { "name": "TypeScript", "level": 90 },
+        { "name": "Tailwind CSS", "level": 92 },
+        { "name": "Framer Motion", "level": 85 }
+      ]
+    },
+    {
+      "name": "Backend",
+      "skills": [
+        { "name": "Node.js", "level": 90 },
+        { "name": "Python", "level": 92 },
+        { "name": "FastAPI", "level": 88 },
+        { "name": "REST APIs", "level": 93 },
+        { "name": "GraphQL", "level": 80 }
+      ]
+    },
+    {
+      "name": "Tools & DevOps",
+      "skills": [
+        { "name": "Git", "level": 95 },
+        { "name": "Docker", "level": 85 },
+        { "name": "Vercel", "level": 92 },
+        { "name": "CI/CD", "level": 83 },
+        { "name": "AWS", "level": 80 }
+      ]
+    },
+    {
+      "name": "Trading & Finance",
+      "skills": [
+        { "name": "Algorithmic Trading", "level": 88 },
+        { "name": "Technical Analysis", "level": 90 },
+        { "name": "Market Data APIs", "level": 87 },
+        { "name": "Risk Management", "level": 85 }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Algorithmic Trading Bot",
+    "description": "Automated trading system for analyzing market data and executing rule-based strategies",
+    "longDescription": "A Python-based algorithmic trading system that fetches real-time and historical market data, applies technical strategies, and generates trade signals. Includes backtesting, risk management rules, and Telegram alert integration for trade updates.",
+    "image": "https://via.placeholder.com/600x400?text=Trading+Bot",
+    "technologies": [
+      "Python",
+      "FastAPI",
+      "Pandas",
+      "Market APIs",
+      "Telegram Bot API"
+    ],
+    "github": "https://github.com/Khyal11",
+    "live": "https://trading-bot-demo.vercel.app",
+    "featured": true,
+    "metrics": {
+      "strategies": "5+",
+      "markets": "Equity & Crypto",
+      "backtests": "Multiple periods"
+    }
+  },
+  {
+    "id": 2,
+    "title": "Telegram Automation Bot",
+    "description": "Advanced Telegram bot for group management, alerts, and automated replies",
+    "longDescription": "A scalable Telegram bot built using Python that manages groups, sends automated replies, deletes service messages, maps users to groups, and delivers real-time alerts. Designed with admin-only commands and modular architecture.",
+    "image": "https://via.placeholder.com/600x400?text=Telegram+Bot",
+    "technologies": [
+      "Python",
+      "Pyrogram",
+      "Telegram Bot API",
+      "SQLite",
+      "Cron Jobs"
+    ],
+    "github": "https://github.com/Khyal11",
+    "live": "https://telegram-bot-demo.vercel.app",
+    "featured": true
+  },
+  {
+    "id": 3,
+    "title": "Web Scraping & Automation Suite",
+    "description": "Browser automation and data extraction system using Playwright",
+    "longDescription": "Automation framework for scraping dynamic websites, handling authentication flows, managing sessions, and exporting structured data. Used for monitoring prices, extracting leads, and automating repetitive web tasks.",
+    "image": "https://via.placeholder.com/600x400?text=Web+Automation",
+    "technologies": [
+      "Python",
+      "Playwright",
+      "Browser Automation",
+      "Data Extraction",
+      "Linux"
+    ],
+    "github": "https://github.com/Khyal11",
+    "live": "https://automation-demo.vercel.app",
+    "featured": false
+  },
+  {
+    "id": 4,
+    "title": "Full-Stack Portfolio Platform",
+    "description": "Modern developer portfolio built with dynamic JSON-driven content",
+    "longDescription": "A fast, responsive portfolio website built using Next.js and Tailwind CSS. All content is driven by JSON files for easy scalability. Includes SEO optimization, dark mode, animations, and reusable components.",
+    "image": "https://via.placeholder.com/600x400?text=Portfolio",
+    "technologies": [
+      "Next.js",
+      "React",
+      "Tailwind CSS",
+      "Framer Motion",
+      "Vercel"
+    ],
+    "github": "https://github.com/Khyal11",
+    "live": "https://portfolio-demo.vercel.app",
+    "featured": true
+  },
+  {
+    "id": 5,
+    "title": "REST API Backend System",
+    "description": "Secure and scalable REST API for managing application data",
+    "longDescription": "Backend system built with FastAPI featuring authentication, role-based access, pagination, and API documentation. Designed for scalability and clean separation of concerns.",
+    "image": "https://via.placeholder.com/600x400?text=API+Backend",
+    "technologies": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "JWT Authentication",
+      "Docker"
+    ],
+    "github": "https://github.com/Khyal11",
+    "live": "https://api-backend-demo.vercel.app",
+    "featured": false
+  }
+]

@@ -1,0 +1,101 @@
+{
+  "experience": [
+    {
+      "id": 1,
+      "company": "NovaStack Solutions",
+      "position": "Full-Stack Developer",
+      "period": "2025 - Present",
+      "description": "Working on full-stack web applications with a focus on frontend performance and Python-based backend services.",
+      "achievements": [
+        "Developed responsive web interfaces using React and Next.js",
+        "Built REST APIs using FastAPI for data-driven applications",
+        "Integrated authentication, dashboards, and dynamic content rendering",
+        "Deployed and maintained applications on Vercel and Linux servers"
+      ],
+      "technologies": [
+        "Next.js",
+        "React",
+        "Tailwind CSS",
+        "Python",
+        "FastAPI",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "id": 2,
+      "company": "Independent Projects",
+      "position": "Python Automation & Bot Developer",
+      "period": "2023 - 2024",
+      "description": "Designed and developed automation tools, trading bots, and Telegram bots using Python.",
+      "achievements": [
+        "Built algorithmic trading bots with strategy logic and backtesting",
+        "Developed Telegram bots for alerts, group management, and automation",
+        "Implemented web scraping and browser automation using Playwright",
+        "Worked with third-party APIs for market data and integrations"
+      ],
+      "technologies": [
+        "Python",
+        "Telegram Bot API",
+        "Pyrogram",
+        "Playwright",
+        "FastAPI",
+        "Pandas"
+      ]
+    },
+    {
+      "id": 3,
+      "company": "PixelWave Web Studio",
+      "position": "Frontend Developer",
+      "period": "2024 - 2025",
+      "description": "Focused on building clean, responsive user interfaces for websites and dashboards.",
+      "achievements": [
+        "Converted UI designs into reusable React components",
+        "Improved website responsiveness across mobile and desktop devices",
+        "Optimized frontend performance and page load speed",
+        "Collaborated with backend developers to integrate APIs"
+      ],
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Tailwind CSS"
+      ]
+    }
+  ],
+
+  "education": [
+    {
+      "id": 1,
+      "school": "Hemchandracharya North Gujarat University",
+      "degree": "Master's of Science",
+      "field": "Information Technology (M.Sc IT)",
+      "year": "2020 - 2025",
+      "details": "Focused on programming fundamentals, databases, web technologies, and computer systems"
+    }
+  ],
+
+  "certifications": [
+    {
+      "id": 1,
+      "name": "Python Programming",
+      "issuer": "Online Learning Platform",
+      "date": "2023",
+      "url": "https://example.com/cert/python"
+    },
+    {
+      "id": 2,
+      "name": "Web Development Fundamentals",
+      "issuer": "Online Learning Platform",
+      "date": "2022",
+      "url": "https://example.com/cert/web-dev"
+    },
+    {
+      "id": 3,
+      "name": "Algorithmic Trading with Python",
+      "issuer": "Self-Learning / Practical Projects",
+      "date": "2024",
+      "url": "https://example.com/cert/trading"
+    }
+  ]
+}
