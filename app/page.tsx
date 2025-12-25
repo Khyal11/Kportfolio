@@ -99,9 +99,9 @@ export default function Home() {
         <div className="container-custom">
           <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
             {[
-              { label: 'Years of Experience', value: '6+' },
-              { label: 'Projects Completed', value: '50+' },
-              { label: 'Happy Clients', value: '30+' },
+              { label: 'Years of Experience', value: '1+' },
+              { label: 'Projects Completed', value: '5+' },
+              { label: 'Happy Clients', value: '10+' },
               { label: 'Tech Stack Skills', value: '20+' },
             ].map((stat, idx) => (
               <motion.div

@@ -62,7 +62,7 @@ const Footer = () => {
             whileInView={{ opacity: 1, y: 0 }}
             viewport={{ once: true }}
           >
-            <h3 className="text-xl font-bold gradient-text mb-4">AJ</h3>
+            <h3 className="text-xl font-bold gradient-text mb-4">KN</h3>
             <p className="text-slate-400 text-sm">
               Full-Stack Developer crafting elegant solutions to complex problems.
             </p>
