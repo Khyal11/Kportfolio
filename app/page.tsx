@@ -30,7 +30,7 @@ export default function Home() {
   const featuredProjects = projects.filter(p => p.featured).slice(0, 3);
 
   return (
-    <div className="w-full">
+    <div className="w-full bg-slate-950 min-h-screen">
       {showSelector && (
         <motion.div
           className="fixed top-20 right-6 z-40 glass rounded-lg p-4 md:p-6 max-w-sm"

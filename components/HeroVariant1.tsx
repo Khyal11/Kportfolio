@@ -26,7 +26,7 @@ const HeroVariant1 = () => {
   };
 
   return (
-    <section className="relative min-h-screen flex items-center justify-center overflow-hidden pt-20">
+    <section className="relative min-h-screen flex items-center justify-center overflow-hidden pt-20 bg-slate-950">
       <div className="absolute inset-0 -z-10">
         <div className="absolute top-20 -left-40 w-80 h-80 bg-primary-500/20 rounded-full blur-3xl animate-blob animation-delay-1" />
         <div className="absolute top-40 -right-40 w-80 h-80 bg-secondary-500/20 rounded-full blur-3xl animate-blob animation-delay-2" />
